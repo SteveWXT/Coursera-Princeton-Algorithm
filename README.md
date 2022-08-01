@@ -2,7 +2,7 @@
 
 This repository is made to post my solutions to Coursera Algorithm [part1](https://www.coursera.org/learn/algorithms-part1) and [part2](https://www.coursera.org/learn/algorithms-part2) assignments
 
-
+## Part1:
 
 &#9745; [Part1 - week1 - Percolation (100/100)](./Percolation/)
 
@@ -14,4 +14,8 @@ This repository is made to post my solutions to Coursera Algorithm [part1](https
 
 &#9745; [Part1 - week5 - KdTree (100/100)](./KdTree/)
 
-​	
+
+
+## Part 2:
+
+&#9745; [Part2 - week1 - WordNet (100/100)](./WordNet/)
