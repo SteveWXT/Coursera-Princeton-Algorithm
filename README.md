@@ -19,3 +19,5 @@ This repository is made to post my solutions to Coursera Algorithm [part1](https
 ## Part 2:
 
 &#9745; [Part2 - week1 - WordNet (100/100)](./WordNet/)
+
+&#9745; [Part2 - week2 - SeamCarving (100/100)](./SeamCarving/)
