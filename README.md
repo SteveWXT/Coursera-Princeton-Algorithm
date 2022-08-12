@@ -23,3 +23,5 @@ This repository is made to post my solutions to Coursera Algorithm [part1](https
 &#9745; [Part2 - week2 - SeamCarving (100/100)](./SeamCarving/)
 
 &#9745; [Part2 - week3 - BaseballElimination (100/100)](./BaseballElimination/)
+
+&#9745; [Part2 - week4 - Boggle (100/100)](./Boggle/)
